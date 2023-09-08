@@ -1,7 +1,7 @@
 [
   {
     "version": "3.0.12",
-    "log": "<p><strong>Peningkatan:</strong></p> <ul> <li>Update framework 0.72.4</li> </ul> <p><strong>Perbaikan:</strong></p> <ul> <li>Force close submit WO</li> <li>null exception saat submit offline/online</li> </ul>",
+    "log": "<p><span style=\"font-size:10px\"><span style=\"font-family:Verdana,Geneva,sans-serif\"><strong>Peningkatan:</strong></span></span></p> <ul> <li><span style=\"font-size:10px\"><span style=\"font-family:Verdana,Geneva,sans-serif\">Update framework 0.72.4</span></span></li> </ul> <p><span style=\"font-size:10px\"><span style=\"font-family:Verdana,Geneva,sans-serif\"><strong>Perbaikan:</strong></span></span></p> <ul> <li><span style=\"font-size:10px\"><span style=\"font-family:Verdana,Geneva,sans-serif\">Force close submit WO</span></span></li> <li><span style=\"font-size:10px\"><span style=\"font-family:Verdana,Geneva,sans-serif\">null exception saat submit offline/online</span></span></li> </ul>",
     "date": "10 September 2023 (22:00)"
   }
 ]
