@@ -1,1 +1,7 @@
-[{ "version": "3.0.12", "log": "asdasdasd", "date": "10-10-2023 22:10" }]
+[
+  {
+    "version": "3.0.12",
+    "log": "<p><strong>Peningkatan:</strong></p> <ul> <li>Update framework 0.72.4</li> </ul> <p><strong>Perbaikan:</strong></p> <ul> <li>Force close submit WO</li> <li>null exception saat submit offline/online</li> </ul>",
+    "date": "10 September 2023 (22:00)"
+  }
+]
